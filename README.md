@@ -15,8 +15,11 @@ After the script finishes scanning, you can select which devices/devices you wan
 # Requirements
 
 BlueZ (bluetoothctl)
+
 Bluetooth hci device (default is hci0, but if you use eg. hci1, change it in the script)
+
 Sudo privileges
+
 Python3
 
 
